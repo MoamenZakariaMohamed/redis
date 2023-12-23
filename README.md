@@ -18,7 +18,7 @@ This is a sample Spring Boot application that uses PostgreSQL as the database an
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/yourusername/spring-boot-postgres-redis](https://github.com/MoamenZakariaMohamed/redis).git
+   git clone https://github.com/MoamenZakariaMohamed/redis.git
    ```
 
 2. Navigate to the project directory:

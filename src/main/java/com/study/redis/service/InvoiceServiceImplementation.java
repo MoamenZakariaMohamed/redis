@@ -1,6 +1,8 @@
-package com.study.redis;
+package com.study.redis.service;
 
 
+import com.study.redis.domian.Invoice;
+import com.study.redis.domian.InvoiceRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.cache.annotation.CacheEvict;
 import org.springframework.cache.annotation.CachePut;

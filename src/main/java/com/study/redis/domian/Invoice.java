@@ -1,4 +1,4 @@
-package com.study.redis;
+package com.study.redis.domian;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -33,7 +33,4 @@ public class Invoice implements Serializable {
     @Column(name = "amount")
     private Double amount;
 
-    public  static  Invoice of(InvoiceDTO invoiceDTO){
-        return Invoice.builder().name(invoiceDTO.getName()).amount(invoiceDTO.getAmount()).build();
-    }
 }

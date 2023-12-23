@@ -1,4 +1,6 @@
-package com.study.redis;
+package com.study.redis.service;
+
+import com.study.redis.domian.Invoice;
 
 import java.util.List;
 

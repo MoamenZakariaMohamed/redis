@@ -4,7 +4,10 @@
 
 ## Overview
 
-This is a sample Spring Boot application that uses PostgreSQL as the database and Redis for caching. The application demonstrates how to set up a Spring Boot project, integrate it with PostgreSQL, implement Redis caching, and use Docker Compose for managing PostgreSQL and Redis in Docker containers. Additionally, the application utilizes Testcontainers for integration testing.
+This is a sample Spring Boot application that uses PostgreSQL as the database and Redis for caching.
+The application demonstrates how to set up a Spring Boot project, integrate it with PostgreSQL,
+ implement Redis caching, and use Docker Compose for managing PostgreSQL and Redis in Docker containers.
+ Additionally, the application utilizes Testcontainers for integration testing.
 
 ## Prerequisites
 
